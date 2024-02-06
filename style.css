@@ -42,7 +42,7 @@ button {
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
-    border: 2px solid ##b95fe3;
+    border: 2px solid #b95fe3;
     font-size: 1.2em;
 }
 button:nth-child(1) {
